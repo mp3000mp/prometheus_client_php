@@ -1,5 +1,5 @@
 {
-    "name": "promphp/prometheus_client_php",
+    "name": "promphp/prometheus_client_php2",
     "description": "Prometheus instrumentation library for PHP applications.",
     "type": "library",
     "license": "Apache-2.0",
